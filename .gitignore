@@ -1,0 +1,8 @@
+.venv/
+.kidsenv/
+.idea/
+__pycache__/
+*.db
+*.spec
+build/
+dist/
